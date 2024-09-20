@@ -1,2 +1,2 @@
 # Honor_Engineering_Analysis
-This repository organizes the course materials I taught at Northwestern University. The course is designed for Engineering undergraduate students at Honor-Level to learn about linear algebra and its applications.
+This repository organizes the course materials I taught at Northwestern University. The course is designed for Engineering undergraduate students at Honor-Level to learn about linear algebra and its applications. Please note the materials in this repository are revised by myself in Python, so they are not exactly the same as the original course materials (The course is taught in MATLAB version).
