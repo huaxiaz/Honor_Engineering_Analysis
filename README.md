@@ -3,7 +3,7 @@ This repository organizes the course materials I am teaching at Northwestern Uni
 
 - Python_basics Folder
   - Python_JupyterNotebook: this tutorial notebook provides a quick overview to Python programming. If you're new to programming, this is the perfect starting point.
-  - NumPy_Matrix: this tutorial notebook covers essential concepts from Linear Algebra  (Chapter 1-4 from ***Linear Algebra and its Applications (5th Edition)***) and demonstrates their implementation using NumPy.
+  - NumPy_Matrix: this tutorial notebook covers essential concepts from Linear Algebra  (Chapter 1-4 from ***Linear Algebra and its Applications (5th Edition)***) and demonstrates the implementation using [**NumPy**](https://numpy.org).
 
 - Case_studies Folder
-  - Graph_PageRank: this notebook covers basics about Graph powered by NetworkX and PageRank Algorithm (Case Study 1).
+  - Graph_PageRank: this notebook covers basics about Graph powered by [**NetworkX**](https://networkx.org) and PageRank Algorithm (Case Study 1).
