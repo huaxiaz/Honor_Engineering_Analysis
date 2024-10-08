@@ -8,5 +8,6 @@ This repository organizes the course materials I am teaching at Northwestern Uni
 - Case_studies Folder
   - Graph_PageRank: this notebook covers basics about graph powered by [**NetworkX**](https://networkx.org) and PageRank Algorithm (Case Study 1 & Week 1).
   - Random_Graph: this notebook covers degree distributions of graphs and different types of random graphs (Week 2).
+  - Iterative_methods: this notebook covers multiple iterative algorithms (Week 3).
 
 - Further_reading Folder: this folder contains a markdown file that primarily lists journal publications in the relevant research areas. 
