@@ -1,5 +1,5 @@
 # Honor_Engineering_Analysis
-This repository organizes the course materials I am teaching at Northwestern University (Fall 2024). The course is designed for Engineering first-year undergraduate students to learn about linear algebra and its applications (Honor Level). Please note the materials are revised by myself with an emphasis in [**Python (Anaconda Distribution)**](https://www.anaconda.com/download), so they are not exactly the same as the original course materials (The course is taught with an emphasis in [**MATLAB**](https://www.mathworks.com/products/matlab.html) implementation). 
+This repository organizes the course materials I am teaching at Northwestern University (Fall 2024). The course is designed for Engineering first-year undergraduate students to learn about linear algebra and its applications (Honor Level). Please note the materials are revised by myself with an emphasis on [**Python (Anaconda Distribution)**](https://www.anaconda.com/download), so they are not exactly the same as the original course materials (The course is taught with an emphasis on [**MATLAB**](https://www.mathworks.com/products/matlab.html) implementation). 
 
 - Python_basics Folder
   - Python_JupyterNotebook: this tutorial notebook provides a quick overview to Python programming. If you're new to programming, this is the perfect starting point.
